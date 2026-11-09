@@ -1,5 +1,5 @@
 # 💫 About Me
-I am a Finnish 19 year old Software Engineer at WiseMaster.
+I am a 20 year old Software Engineer at WiseMaster.
 
 ## 🌐 Web
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
